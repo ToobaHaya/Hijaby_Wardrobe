@@ -58,7 +58,7 @@ function Checkout() {
                 customerEmail: email,
             };
             console.log(orderData)
-            const response = await axios.post('h/api/create-order', orderData);
+            const response = await axios.post('/api/create-order', orderData);
             console.log('Response:', response);
             if (response.status === 201) {
                 Swal.fire('Success', 'Order Placed Successfully', 'success');
