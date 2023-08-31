@@ -18,7 +18,7 @@ export default function GuestNav() {
   useEffect(() => {
       const fetchCategories = async () => {
           try {
-              const response = await axios.get(`http://localhost:1234/api/all-categories`);
+              const response = await axios.get(`/api/all-categories`);
               console.log(response.data); // Log the response data
               setCategory(response.data.categories);
           } catch (error) {
