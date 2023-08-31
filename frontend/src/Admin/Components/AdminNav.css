@@ -1,0 +1,16 @@
+.navbar{
+    border-bottom: 2px solid #fe7689!important;
+    position: fixed!important;
+    text-transform: uppercase;
+    height: 60px;
+    width: 100%;
+    margin-bottom: 25px!important;
+    background-color: white !important;
+}
+
+#navs{
+    margin-bottom: 5px!important;
+    background-color: white !important;
+    position: fixed!important;
+    z-index:200000
+}
