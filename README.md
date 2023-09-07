@@ -89,7 +89,7 @@ JWT: JSON Web Tokens for user authentication.
 ```http
   DELETE /api/deleteproduct/:_id
 ```
-                -----------------------
+        
 
 ## Brand API's
 
@@ -128,7 +128,7 @@ JWT: JSON Web Tokens for user authentication.
 ```http
   DELETE /api/deletebrand/_id
 ```
-                -----------------------
+                
 
 ## Category API's
 
@@ -167,7 +167,7 @@ JWT: JSON Web Tokens for user authentication.
 ```http
   DELETE /api/delete-category/_id
 ```
-                -----------------------
+                
 
 ## User API's
 
@@ -212,7 +212,7 @@ JWT: JSON Web Tokens for user authentication.
 ```http
   DELETE /api/deleteuser/:_id
 ```
-                -----------------------
+                
 
 
 # Feedback
