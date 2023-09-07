@@ -4,7 +4,7 @@
 Welcome to Hijaby Wardrobe! A dynamic web platform specializing in Hijab items. This website providing valuable services related to hijab. Whether our website aims is to serve hijab for hijabean. This project utilizes the MERN_Stack (MongoDB, Express.js, React.js, Node.js)
 
 # Live URL
-excited-gray-outerwear.cyclic.app/
+(https://excited-gray-outerwear.cyclic.app/)
 
 # Features
 . Authentication: User registration and login functionality to access personalized features.
